@@ -1,0 +1,1586 @@
+[
+  {
+    "trade_id": 1,
+    "entry_time": "2025-03-17 09:43:00",
+    "exit_time": "2025-03-17 09:44:00",
+    "trade_date": "2025-03-17",
+    "profit": 235.0,
+    "max_profit": 360.0,
+    "max_loss": 75.0
+  },
+  {
+    "trade_id": 2,
+    "entry_time": "2025-03-17 10:10:00",
+    "exit_time": "2025-03-17 10:11:00",
+    "trade_date": "2025-03-17",
+    "profit": 15.0,
+    "max_profit": 350.0,
+    "max_loss": 190.0
+  },
+  {
+    "trade_id": 3,
+    "entry_time": "2025-03-17 10:24:00",
+    "exit_time": "2025-03-17 10:25:00",
+    "trade_date": "2025-03-17",
+    "profit": 360.0,
+    "max_profit": 405.0,
+    "max_loss": 60.0
+  },
+  {
+    "trade_id": 4,
+    "entry_time": "2025-03-17 10:34:00",
+    "exit_time": "2025-03-17 10:35:00",
+    "trade_date": "2025-03-17",
+    "profit": -280.0,
+    "max_profit": 75.0,
+    "max_loss": 335.0
+  },
+  {
+    "trade_id": 5,
+    "entry_time": "2025-03-17 10:55:00",
+    "exit_time": "2025-03-17 10:56:00",
+    "trade_date": "2025-03-17",
+    "profit": 540.0,
+    "max_profit": 635.0,
+    "max_loss": 5.0
+  },
+  {
+    "trade_id": 6,
+    "entry_time": "2025-03-17 11:02:00",
+    "exit_time": "2025-03-17 11:03:00",
+    "trade_date": "2025-03-17",
+    "profit": -345.0,
+    "max_profit": 5.0,
+    "max_loss": 590.0
+  },
+  {
+    "trade_id": 7,
+    "entry_time": "2025-03-17 11:04:00",
+    "exit_time": "2025-03-17 11:05:00",
+    "trade_date": "2025-03-17",
+    "profit": -275.0,
+    "max_profit": 75.0,
+    "max_loss": 275.0
+  },
+  {
+    "trade_id": 8,
+    "entry_time": "2025-03-17 11:09:00",
+    "exit_time": "2025-03-17 11:10:00",
+    "trade_date": "2025-03-17",
+    "profit": 425.0,
+    "max_profit": 465.0,
+    "max_loss": 100.0
+  },
+  {
+    "trade_id": 9,
+    "entry_time": "2025-03-17 11:28:00",
+    "exit_time": "2025-03-17 11:30:00",
+    "trade_date": "2025-03-17",
+    "profit": 425.0,
+    "max_profit": 460.0,
+    "max_loss": 350.0
+  },
+  {
+    "trade_id": 10,
+    "entry_time": "2025-03-17 11:39:00",
+    "exit_time": "2025-03-17 11:40:00",
+    "trade_date": "2025-03-17",
+    "profit": -330.0,
+    "max_profit": 25.0,
+    "max_loss": 505.0
+  },
+  {
+    "trade_id": 11,
+    "entry_time": "2025-03-18 09:42:00",
+    "exit_time": "2025-03-18 09:43:00",
+    "trade_date": "2025-03-18",
+    "profit": 335.0,
+    "max_profit": 380.0,
+    "max_loss": 125.0
+  },
+  {
+    "trade_id": 12,
+    "entry_time": "2025-03-18 09:45:00",
+    "exit_time": "2025-03-18 09:47:00",
+    "trade_date": "2025-03-18",
+    "profit": 135.0,
+    "max_profit": 475.0,
+    "max_loss": 260.0
+  },
+  {
+    "trade_id": 13,
+    "entry_time": "2025-03-18 09:49:00",
+    "exit_time": "2025-03-18 09:50:00",
+    "trade_date": "2025-03-18",
+    "profit": 60.0,
+    "max_profit": 460.0,
+    "max_loss": 20.0
+  },
+  {
+    "trade_id": 14,
+    "entry_time": "2025-03-18 10:00:00",
+    "exit_time": "2025-03-18 10:01:00",
+    "trade_date": "2025-03-18",
+    "profit": 465.0,
+    "max_profit": 645.0,
+    "max_loss": 15.0
+  },
+  {
+    "trade_id": 15,
+    "entry_time": "2025-03-18 10:04:00",
+    "exit_time": "2025-03-18 10:05:00",
+    "trade_date": "2025-03-18",
+    "profit": 580.0,
+    "max_profit": 635.0,
+    "max_loss": 150.0
+  },
+  {
+    "trade_id": 16,
+    "entry_time": "2025-03-18 10:20:00",
+    "exit_time": "2025-03-18 10:21:00",
+    "trade_date": "2025-03-18",
+    "profit": -300.0,
+    "max_profit": 85.0,
+    "max_loss": 505.0
+  },
+  {
+    "trade_id": 17,
+    "entry_time": "2025-03-18 10:46:00",
+    "exit_time": "2025-03-18 10:47:00",
+    "trade_date": "2025-03-18",
+    "profit": 50.0,
+    "max_profit": 110.0,
+    "max_loss": 145.0
+  },
+  {
+    "trade_id": 18,
+    "entry_time": "2025-03-18 10:55:00",
+    "exit_time": "2025-03-18 10:56:00",
+    "trade_date": "2025-03-18",
+    "profit": 160.0,
+    "max_profit": 550.0,
+    "max_loss": 60.0
+  },
+  {
+    "trade_id": 19,
+    "entry_time": "2025-03-18 11:01:00",
+    "exit_time": "2025-03-18 11:02:00",
+    "trade_date": "2025-03-18",
+    "profit": 720.0,
+    "max_profit": 835.0,
+    "max_loss": 55.0
+  },
+  {
+    "trade_id": 20,
+    "entry_time": "2025-03-18 11:08:00",
+    "exit_time": "2025-03-18 11:09:00",
+    "trade_date": "2025-03-18",
+    "profit": 240.0,
+    "max_profit": 280.0,
+    "max_loss": 225.0
+  },
+  {
+    "trade_id": 21,
+    "entry_time": "2025-03-18 11:48:00",
+    "exit_time": "2025-03-18 11:50:00",
+    "trade_date": "2025-03-18",
+    "profit": 300.0,
+    "max_profit": 330.0,
+    "max_loss": 115.0
+  },
+  {
+    "trade_id": 22,
+    "entry_time": "2025-03-19 09:48:00",
+    "exit_time": "2025-03-19 09:49:00",
+    "trade_date": "2025-03-19",
+    "profit": -290.0,
+    "max_profit": 245.0,
+    "max_loss": 290.0
+  },
+  {
+    "trade_id": 23,
+    "entry_time": "2025-03-19 10:00:00",
+    "exit_time": "2025-03-19 10:01:00",
+    "trade_date": "2025-03-19",
+    "profit": -335.0,
+    "max_profit": 10.0,
+    "max_loss": 475.0
+  },
+  {
+    "trade_id": 24,
+    "entry_time": "2025-03-19 10:02:00",
+    "exit_time": "2025-03-19 10:04:00",
+    "trade_date": "2025-03-19",
+    "profit": 260.0,
+    "max_profit": 295.0,
+    "max_loss": 190.0
+  },
+  {
+    "trade_id": 25,
+    "entry_time": "2025-03-19 10:12:00",
+    "exit_time": "2025-03-19 10:13:00",
+    "trade_date": "2025-03-19",
+    "profit": 380.0,
+    "max_profit": 415.0,
+    "max_loss": 50.0
+  },
+  {
+    "trade_id": 26,
+    "entry_time": "2025-03-19 11:02:00",
+    "exit_time": "2025-03-19 11:03:00",
+    "trade_date": "2025-03-19",
+    "profit": 15.0,
+    "max_profit": 55.0,
+    "max_loss": 95.0
+  },
+  {
+    "trade_id": 27,
+    "entry_time": "2025-03-19 11:14:00",
+    "exit_time": "2025-03-19 11:16:00",
+    "trade_date": "2025-03-19",
+    "profit": 275.0,
+    "max_profit": 300.0,
+    "max_loss": 140.0
+  },
+  {
+    "trade_id": 28,
+    "entry_time": "2025-03-19 11:26:00",
+    "exit_time": "2025-03-19 11:27:00",
+    "trade_date": "2025-03-19",
+    "profit": 40.0,
+    "max_profit": 245.0,
+    "max_loss": 5.0
+  },
+  {
+    "trade_id": 29,
+    "entry_time": "2025-03-19 11:38:00",
+    "exit_time": "2025-03-19 11:39:00",
+    "trade_date": "2025-03-19",
+    "profit": -250.0,
+    "max_profit": 10.0,
+    "max_loss": 295.0
+  },
+  {
+    "trade_id": 30,
+    "entry_time": "2025-03-19 11:49:00",
+    "exit_time": "2025-03-19 11:50:00",
+    "trade_date": "2025-03-19",
+    "profit": -215.0,
+    "max_profit": 25.0,
+    "max_loss": 220.0
+  },
+  {
+    "trade_id": 31,
+    "entry_time": "2025-03-19 11:58:00",
+    "exit_time": "2025-03-19 11:59:00",
+    "trade_date": "2025-03-19",
+    "profit": 205.0,
+    "max_profit": 280.0,
+    "max_loss": 20.0
+  },
+  {
+    "trade_id": 32,
+    "entry_time": "2025-03-20 09:56:00",
+    "exit_time": "2025-03-20 09:57:00",
+    "trade_date": "2025-03-20",
+    "profit": 70.0,
+    "max_profit": 175.0,
+    "max_loss": 345.0
+  },
+  {
+    "trade_id": 33,
+    "entry_time": "2025-03-20 10:01:00",
+    "exit_time": "2025-03-20 10:03:00",
+    "trade_date": "2025-03-20",
+    "profit": 150.0,
+    "max_profit": 240.0,
+    "max_loss": 285.0
+  },
+  {
+    "trade_id": 34,
+    "entry_time": "2025-03-20 10:10:00",
+    "exit_time": "2025-03-20 10:11:00",
+    "trade_date": "2025-03-20",
+    "profit": 225.0,
+    "max_profit": 380.0,
+    "max_loss": 50.0
+  },
+  {
+    "trade_id": 35,
+    "entry_time": "2025-03-20 10:21:00",
+    "exit_time": "2025-03-20 10:24:00",
+    "trade_date": "2025-03-20",
+    "profit": 510.0,
+    "max_profit": 560.0,
+    "max_loss": 295.0
+  },
+  {
+    "trade_id": 36,
+    "entry_time": "2025-03-20 10:28:00",
+    "exit_time": "2025-03-20 10:29:00",
+    "trade_date": "2025-03-20",
+    "profit": 195.0,
+    "max_profit": 325.0,
+    "max_loss": 35.0
+  },
+  {
+    "trade_id": 37,
+    "entry_time": "2025-03-20 10:44:00",
+    "exit_time": "2025-03-20 10:47:00",
+    "trade_date": "2025-03-20",
+    "profit": 160.0,
+    "max_profit": 270.0,
+    "max_loss": 180.0
+  },
+  {
+    "trade_id": 38,
+    "entry_time": "2025-03-20 10:48:00",
+    "exit_time": "2025-03-20 10:51:00",
+    "trade_date": "2025-03-20",
+    "profit": 740.0,
+    "max_profit": 775.0,
+    "max_loss": 105.0
+  },
+  {
+    "trade_id": 39,
+    "entry_time": "2025-03-20 11:07:00",
+    "exit_time": "2025-03-20 11:08:00",
+    "trade_date": "2025-03-20",
+    "profit": 85.0,
+    "max_profit": 120.0,
+    "max_loss": 260.0
+  },
+  {
+    "trade_id": 40,
+    "entry_time": "2025-03-20 11:20:00",
+    "exit_time": "2025-03-20 11:22:00",
+    "trade_date": "2025-03-20",
+    "profit": 240.0,
+    "max_profit": 270.0,
+    "max_loss": 170.0
+  },
+  {
+    "trade_id": 41,
+    "entry_time": "2025-03-20 11:28:00",
+    "exit_time": "2025-03-20 11:29:00",
+    "trade_date": "2025-03-20",
+    "profit": -275.0,
+    "max_profit": 60.0,
+    "max_loss": 315.0
+  },
+  {
+    "trade_id": 42,
+    "entry_time": "2025-03-20 11:40:00",
+    "exit_time": "2025-03-20 11:41:00",
+    "trade_date": "2025-03-20",
+    "profit": 325.0,
+    "max_profit": 380.0,
+    "max_loss": 40.0
+  },
+  {
+    "trade_id": 43,
+    "entry_time": "2025-03-20 11:57:00",
+    "exit_time": "2025-03-20 11:58:00",
+    "trade_date": "2025-03-20",
+    "profit": 185.0,
+    "max_profit": 305.0,
+    "max_loss": 0.0
+  },
+  {
+    "trade_id": 44,
+    "entry_time": "2025-03-21 10:01:00",
+    "exit_time": "2025-03-21 10:02:00",
+    "trade_date": "2025-03-21",
+    "profit": 505.0,
+    "max_profit": 555.0,
+    "max_loss": 65.0
+  },
+  {
+    "trade_id": 45,
+    "entry_time": "2025-03-21 10:19:00",
+    "exit_time": "2025-03-21 10:20:00",
+    "trade_date": "2025-03-21",
+    "profit": 105.0,
+    "max_profit": 155.0,
+    "max_loss": 270.0
+  },
+  {
+    "trade_id": 46,
+    "entry_time": "2025-03-21 10:29:00",
+    "exit_time": "2025-03-21 10:30:00",
+    "trade_date": "2025-03-21",
+    "profit": 60.0,
+    "max_profit": 215.0,
+    "max_loss": 155.0
+  },
+  {
+    "trade_id": 47,
+    "entry_time": "2025-03-21 10:49:00",
+    "exit_time": "2025-03-21 10:51:00",
+    "trade_date": "2025-03-21",
+    "profit": -245.0,
+    "max_profit": 160.0,
+    "max_loss": 245.0
+  },
+  {
+    "trade_id": 48,
+    "entry_time": "2025-03-21 11:05:00",
+    "exit_time": "2025-03-21 11:06:00",
+    "trade_date": "2025-03-21",
+    "profit": -235.0,
+    "max_profit": 210.0,
+    "max_loss": 235.0
+  },
+  {
+    "trade_id": 49,
+    "entry_time": "2025-03-21 11:32:00",
+    "exit_time": "2025-03-21 11:33:00",
+    "trade_date": "2025-03-21",
+    "profit": 395.0,
+    "max_profit": 425.0,
+    "max_loss": 0.0
+  },
+  {
+    "trade_id": 50,
+    "entry_time": "2025-03-21 11:42:00",
+    "exit_time": "2025-03-21 11:43:00",
+    "trade_date": "2025-03-21",
+    "profit": 340.0,
+    "max_profit": 405.0,
+    "max_loss": 40.0
+  },
+  {
+    "trade_id": 51,
+    "entry_time": "2025-03-21 11:47:00",
+    "exit_time": "2025-03-21 11:48:00",
+    "trade_date": "2025-03-21",
+    "profit": 225.0,
+    "max_profit": 310.0,
+    "max_loss": 0.0
+  },
+  {
+    "trade_id": 52,
+    "entry_time": "2025-03-24 09:37:00",
+    "exit_time": "2025-03-24 09:38:00",
+    "trade_date": "2025-03-24",
+    "profit": 305.0,
+    "max_profit": 390.0,
+    "max_loss": 0.0
+  },
+  {
+    "trade_id": 53,
+    "entry_time": "2025-03-24 09:56:00",
+    "exit_time": "2025-03-24 09:57:00",
+    "trade_date": "2025-03-24",
+    "profit": -205.0,
+    "max_profit": 95.0,
+    "max_loss": 205.0
+  },
+  {
+    "trade_id": 54,
+    "entry_time": "2025-03-24 10:17:00",
+    "exit_time": "2025-03-24 10:18:00",
+    "trade_date": "2025-03-24",
+    "profit": 25.0,
+    "max_profit": 60.0,
+    "max_loss": 155.0
+  },
+  {
+    "trade_id": 55,
+    "entry_time": "2025-03-24 10:26:00",
+    "exit_time": "2025-03-24 10:27:00",
+    "trade_date": "2025-03-24",
+    "profit": 50.0,
+    "max_profit": 180.0,
+    "max_loss": 45.0
+  },
+  {
+    "trade_id": 56,
+    "entry_time": "2025-03-24 10:49:00",
+    "exit_time": "2025-03-24 10:50:00",
+    "trade_date": "2025-03-24",
+    "profit": 175.0,
+    "max_profit": 210.0,
+    "max_loss": 10.0
+  },
+  {
+    "trade_id": 57,
+    "entry_time": "2025-03-24 10:57:00",
+    "exit_time": "2025-03-24 10:58:00",
+    "trade_date": "2025-03-24",
+    "profit": -135.0,
+    "max_profit": 60.0,
+    "max_loss": 135.0
+  },
+  {
+    "trade_id": 58,
+    "entry_time": "2025-03-24 11:07:00",
+    "exit_time": "2025-03-24 11:08:00",
+    "trade_date": "2025-03-24",
+    "profit": 145.0,
+    "max_profit": 165.0,
+    "max_loss": 20.0
+  },
+  {
+    "trade_id": 59,
+    "entry_time": "2025-03-24 11:17:00",
+    "exit_time": "2025-03-24 11:18:00",
+    "trade_date": "2025-03-24",
+    "profit": -120.0,
+    "max_profit": 5.0,
+    "max_loss": 120.0
+  },
+  {
+    "trade_id": 60,
+    "entry_time": "2025-03-24 11:51:00",
+    "exit_time": "2025-03-24 11:52:00",
+    "trade_date": "2025-03-24",
+    "profit": 135.0,
+    "max_profit": 195.0,
+    "max_loss": 10.0
+  },
+  {
+    "trade_id": 61,
+    "entry_time": "2025-03-25 09:37:00",
+    "exit_time": "2025-03-25 09:38:00",
+    "trade_date": "2025-03-25",
+    "profit": -140.0,
+    "max_profit": 55.0,
+    "max_loss": 370.0
+  },
+  {
+    "trade_id": 62,
+    "entry_time": "2025-03-25 09:40:00",
+    "exit_time": "2025-03-25 09:41:00",
+    "trade_date": "2025-03-25",
+    "profit": 555.0,
+    "max_profit": 580.0,
+    "max_loss": 75.0
+  },
+  {
+    "trade_id": 63,
+    "entry_time": "2025-03-25 09:49:00",
+    "exit_time": "2025-03-25 09:51:00",
+    "trade_date": "2025-03-25",
+    "profit": -215.0,
+    "max_profit": 120.0,
+    "max_loss": 215.0
+  },
+  {
+    "trade_id": 64,
+    "entry_time": "2025-03-25 09:54:00",
+    "exit_time": "2025-03-25 09:55:00",
+    "trade_date": "2025-03-25",
+    "profit": 55.0,
+    "max_profit": 195.0,
+    "max_loss": 50.0
+  },
+  {
+    "trade_id": 65,
+    "entry_time": "2025-03-25 10:04:00",
+    "exit_time": "2025-03-25 10:05:00",
+    "trade_date": "2025-03-25",
+    "profit": -225.0,
+    "max_profit": 100.0,
+    "max_loss": 265.0
+  },
+  {
+    "trade_id": 66,
+    "entry_time": "2025-03-25 10:10:00",
+    "exit_time": "2025-03-25 10:11:00",
+    "trade_date": "2025-03-25",
+    "profit": 400.0,
+    "max_profit": 430.0,
+    "max_loss": 100.0
+  },
+  {
+    "trade_id": 67,
+    "entry_time": "2025-03-25 10:20:00",
+    "exit_time": "2025-03-25 10:22:00",
+    "trade_date": "2025-03-25",
+    "profit": -175.0,
+    "max_profit": 205.0,
+    "max_loss": 175.0
+  },
+  {
+    "trade_id": 68,
+    "entry_time": "2025-03-25 10:23:00",
+    "exit_time": "2025-03-25 10:25:00",
+    "trade_date": "2025-03-25",
+    "profit": 150.0,
+    "max_profit": 175.0,
+    "max_loss": 140.0
+  },
+  {
+    "trade_id": 69,
+    "entry_time": "2025-03-25 10:30:00",
+    "exit_time": "2025-03-25 10:31:00",
+    "trade_date": "2025-03-25",
+    "profit": 5.0,
+    "max_profit": 45.0,
+    "max_loss": 140.0
+  },
+  {
+    "trade_id": 70,
+    "entry_time": "2025-03-25 10:34:00",
+    "exit_time": "2025-03-25 10:35:00",
+    "trade_date": "2025-03-25",
+    "profit": -170.0,
+    "max_profit": 50.0,
+    "max_loss": 190.0
+  },
+  {
+    "trade_id": 71,
+    "entry_time": "2025-03-25 10:38:00",
+    "exit_time": "2025-03-25 10:39:00",
+    "trade_date": "2025-03-25",
+    "profit": 230.0,
+    "max_profit": 255.0,
+    "max_loss": 60.0
+  },
+  {
+    "trade_id": 72,
+    "entry_time": "2025-03-25 10:47:00",
+    "exit_time": "2025-03-25 10:48:00",
+    "trade_date": "2025-03-25",
+    "profit": -130.0,
+    "max_profit": 10.0,
+    "max_loss": 170.0
+  },
+  {
+    "trade_id": 73,
+    "entry_time": "2025-03-25 11:44:00",
+    "exit_time": "2025-03-25 11:45:00",
+    "trade_date": "2025-03-25",
+    "profit": 65.0,
+    "max_profit": 80.0,
+    "max_loss": 95.0
+  },
+  {
+    "trade_id": 74,
+    "entry_time": "2025-03-25 11:55:00",
+    "exit_time": "2025-03-25 11:56:00",
+    "trade_date": "2025-03-25",
+    "profit": -115.0,
+    "max_profit": 30.0,
+    "max_loss": 160.0
+  },
+  {
+    "trade_id": 75,
+    "entry_time": "2025-03-26 09:36:00",
+    "exit_time": "2025-03-26 09:37:00",
+    "trade_date": "2025-03-26",
+    "profit": -160.0,
+    "max_profit": 170.0,
+    "max_loss": 200.0
+  },
+  {
+    "trade_id": 76,
+    "entry_time": "2025-03-26 09:47:00",
+    "exit_time": "2025-03-26 09:48:00",
+    "trade_date": "2025-03-26",
+    "profit": 360.0,
+    "max_profit": 390.0,
+    "max_loss": 90.0
+  },
+  {
+    "trade_id": 77,
+    "entry_time": "2025-03-26 09:55:00",
+    "exit_time": "2025-03-26 09:56:00",
+    "trade_date": "2025-03-26",
+    "profit": -355.0,
+    "max_profit": 40.0,
+    "max_loss": 420.0
+  },
+  {
+    "trade_id": 78,
+    "entry_time": "2025-03-26 09:59:00",
+    "exit_time": "2025-03-26 10:00:00",
+    "trade_date": "2025-03-26",
+    "profit": -260.0,
+    "max_profit": 25.0,
+    "max_loss": 325.0
+  },
+  {
+    "trade_id": 79,
+    "entry_time": "2025-03-26 10:13:00",
+    "exit_time": "2025-03-26 10:14:00",
+    "trade_date": "2025-03-26",
+    "profit": 40.0,
+    "max_profit": 140.0,
+    "max_loss": 295.0
+  },
+  {
+    "trade_id": 80,
+    "entry_time": "2025-03-26 10:16:00",
+    "exit_time": "2025-03-26 10:19:00",
+    "trade_date": "2025-03-26",
+    "profit": -265.0,
+    "max_profit": 150.0,
+    "max_loss": 285.0
+  },
+  {
+    "trade_id": 81,
+    "entry_time": "2025-03-26 10:20:00",
+    "exit_time": "2025-03-26 10:21:00",
+    "trade_date": "2025-03-26",
+    "profit": 655.0,
+    "max_profit": 695.0,
+    "max_loss": 85.0
+  },
+  {
+    "trade_id": 82,
+    "entry_time": "2025-03-26 10:26:00",
+    "exit_time": "2025-03-26 10:27:00",
+    "trade_date": "2025-03-26",
+    "profit": 460.0,
+    "max_profit": 495.0,
+    "max_loss": 90.0
+  },
+  {
+    "trade_id": 83,
+    "entry_time": "2025-03-26 10:48:00",
+    "exit_time": "2025-03-26 10:49:00",
+    "trade_date": "2025-03-26",
+    "profit": 55.0,
+    "max_profit": 145.0,
+    "max_loss": 85.0
+  },
+  {
+    "trade_id": 84,
+    "entry_time": "2025-03-26 10:53:00",
+    "exit_time": "2025-03-26 10:54:00",
+    "trade_date": "2025-03-26",
+    "profit": 220.0,
+    "max_profit": 260.0,
+    "max_loss": 65.0
+  },
+  {
+    "trade_id": 85,
+    "entry_time": "2025-03-26 11:23:00",
+    "exit_time": "2025-03-26 11:24:00",
+    "trade_date": "2025-03-26",
+    "profit": 25.0,
+    "max_profit": 65.0,
+    "max_loss": 185.0
+  },
+  {
+    "trade_id": 86,
+    "entry_time": "2025-03-26 11:32:00",
+    "exit_time": "2025-03-26 11:33:00",
+    "trade_date": "2025-03-26",
+    "profit": 170.0,
+    "max_profit": 195.0,
+    "max_loss": 25.0
+  },
+  {
+    "trade_id": 87,
+    "entry_time": "2025-03-26 11:42:00",
+    "exit_time": "2025-03-26 11:43:00",
+    "trade_date": "2025-03-26",
+    "profit": 15.0,
+    "max_profit": 150.0,
+    "max_loss": 75.0
+  },
+  {
+    "trade_id": 88,
+    "entry_time": "2025-03-26 11:48:00",
+    "exit_time": "2025-03-26 11:49:00",
+    "trade_date": "2025-03-26",
+    "profit": -325.0,
+    "max_profit": 5.0,
+    "max_loss": 345.0
+  },
+  {
+    "trade_id": 89,
+    "entry_time": "2025-03-26 11:50:00",
+    "exit_time": "2025-03-26 11:51:00",
+    "trade_date": "2025-03-26",
+    "profit": 260.0,
+    "max_profit": 280.0,
+    "max_loss": 85.0
+  },
+  {
+    "trade_id": 90,
+    "entry_time": "2025-03-26 11:58:00",
+    "exit_time": "2025-03-26 11:59:00",
+    "trade_date": "2025-03-26",
+    "profit": 10.0,
+    "max_profit": 115.0,
+    "max_loss": 95.0
+  },
+  {
+    "trade_id": 91,
+    "entry_time": "2025-03-27 09:45:00",
+    "exit_time": "2025-03-27 09:46:00",
+    "trade_date": "2025-03-27",
+    "profit": 175.0,
+    "max_profit": 345.0,
+    "max_loss": 20.0
+  },
+  {
+    "trade_id": 92,
+    "entry_time": "2025-03-27 10:02:00",
+    "exit_time": "2025-03-27 10:04:00",
+    "trade_date": "2025-03-27",
+    "profit": 165.0,
+    "max_profit": 230.0,
+    "max_loss": 345.0
+  },
+  {
+    "trade_id": 93,
+    "entry_time": "2025-03-27 10:29:00",
+    "exit_time": "2025-03-27 10:30:00",
+    "trade_date": "2025-03-27",
+    "profit": 375.0,
+    "max_profit": 440.0,
+    "max_loss": 55.0
+  },
+  {
+    "trade_id": 94,
+    "entry_time": "2025-03-27 10:37:00",
+    "exit_time": "2025-03-27 10:38:00",
+    "trade_date": "2025-03-27",
+    "profit": -465.0,
+    "max_profit": 25.0,
+    "max_loss": 470.0
+  },
+  {
+    "trade_id": 95,
+    "entry_time": "2025-03-27 10:44:00",
+    "exit_time": "2025-03-27 10:45:00",
+    "trade_date": "2025-03-27",
+    "profit": 65.0,
+    "max_profit": 125.0,
+    "max_loss": 45.0
+  },
+  {
+    "trade_id": 96,
+    "entry_time": "2025-03-27 10:55:00",
+    "exit_time": "2025-03-27 10:56:00",
+    "trade_date": "2025-03-27",
+    "profit": 250.0,
+    "max_profit": 280.0,
+    "max_loss": 90.0
+  },
+  {
+    "trade_id": 97,
+    "entry_time": "2025-03-27 11:03:00",
+    "exit_time": "2025-03-27 11:04:00",
+    "trade_date": "2025-03-27",
+    "profit": 140.0,
+    "max_profit": 200.0,
+    "max_loss": 65.0
+  },
+  {
+    "trade_id": 98,
+    "entry_time": "2025-03-27 11:43:00",
+    "exit_time": "2025-03-27 11:44:00",
+    "trade_date": "2025-03-27",
+    "profit": -225.0,
+    "max_profit": 75.0,
+    "max_loss": 225.0
+  },
+  {
+    "trade_id": 99,
+    "entry_time": "2025-03-27 11:49:00",
+    "exit_time": "2025-03-27 11:50:00",
+    "trade_date": "2025-03-27",
+    "profit": 50.0,
+    "max_profit": 185.0,
+    "max_loss": 50.0
+  },
+  {
+    "trade_id": 100,
+    "entry_time": "2025-03-27 11:51:00",
+    "exit_time": "2025-03-27 11:52:00",
+    "trade_date": "2025-03-27",
+    "profit": 190.0,
+    "max_profit": 220.0,
+    "max_loss": 5.0
+  },
+  {
+    "trade_id": 101,
+    "entry_time": "2025-03-28 09:37:00",
+    "exit_time": "2025-03-28 09:38:00",
+    "trade_date": "2025-03-28",
+    "profit": -275.0,
+    "max_profit": 455.0,
+    "max_loss": 275.0
+  },
+  {
+    "trade_id": 102,
+    "entry_time": "2025-03-28 09:53:00",
+    "exit_time": "2025-03-28 09:54:00",
+    "trade_date": "2025-03-28",
+    "profit": -340.0,
+    "max_profit": 295.0,
+    "max_loss": 340.0
+  },
+  {
+    "trade_id": 103,
+    "entry_time": "2025-03-28 10:10:00",
+    "exit_time": "2025-03-28 10:11:00",
+    "trade_date": "2025-03-28",
+    "profit": -310.0,
+    "max_profit": 155.0,
+    "max_loss": 360.0
+  },
+  {
+    "trade_id": 104,
+    "entry_time": "2025-03-28 10:27:00",
+    "exit_time": "2025-03-28 10:29:00",
+    "trade_date": "2025-03-28",
+    "profit": 170.0,
+    "max_profit": 340.0,
+    "max_loss": 245.0
+  },
+  {
+    "trade_id": 105,
+    "entry_time": "2025-03-28 10:36:00",
+    "exit_time": "2025-03-28 10:37:00",
+    "trade_date": "2025-03-28",
+    "profit": -450.0,
+    "max_profit": 60.0,
+    "max_loss": 525.0
+  },
+  {
+    "trade_id": 106,
+    "entry_time": "2025-03-28 10:39:00",
+    "exit_time": "2025-03-28 10:40:00",
+    "trade_date": "2025-03-28",
+    "profit": 155.0,
+    "max_profit": 295.0,
+    "max_loss": 50.0
+  },
+  {
+    "trade_id": 107,
+    "entry_time": "2025-03-28 11:02:00",
+    "exit_time": "2025-03-28 11:03:00",
+    "trade_date": "2025-03-28",
+    "profit": 130.0,
+    "max_profit": 295.0,
+    "max_loss": 35.0
+  },
+  {
+    "trade_id": 108,
+    "entry_time": "2025-03-28 11:08:00",
+    "exit_time": "2025-03-28 11:09:00",
+    "trade_date": "2025-03-28",
+    "profit": 85.0,
+    "max_profit": 160.0,
+    "max_loss": 20.0
+  },
+  {
+    "trade_id": 109,
+    "entry_time": "2025-03-28 11:24:00",
+    "exit_time": "2025-03-28 11:25:00",
+    "trade_date": "2025-03-28",
+    "profit": 5.0,
+    "max_profit": 195.0,
+    "max_loss": 55.0
+  },
+  {
+    "trade_id": 110,
+    "entry_time": "2025-03-28 11:29:00",
+    "exit_time": "2025-03-28 11:30:00",
+    "trade_date": "2025-03-28",
+    "profit": 195.0,
+    "max_profit": 295.0,
+    "max_loss": 25.0
+  },
+  {
+    "trade_id": 111,
+    "entry_time": "2025-03-28 11:43:00",
+    "exit_time": "2025-03-28 11:44:00",
+    "trade_date": "2025-03-28",
+    "profit": -190.0,
+    "max_profit": 215.0,
+    "max_loss": 190.0
+  },
+  {
+    "trade_id": 112,
+    "entry_time": "2025-03-28 11:49:00",
+    "exit_time": "2025-03-28 11:50:00",
+    "trade_date": "2025-03-28",
+    "profit": 55.0,
+    "max_profit": 120.0,
+    "max_loss": 55.0
+  },
+  {
+    "trade_id": 113,
+    "entry_time": "2025-03-28 11:52:00",
+    "exit_time": "2025-03-28 11:53:00",
+    "trade_date": "2025-03-28",
+    "profit": 310.0,
+    "max_profit": 335.0,
+    "max_loss": 65.0
+  },
+  {
+    "trade_id": 114,
+    "entry_time": "2025-03-31 09:36:00",
+    "exit_time": "2025-03-31 09:37:00",
+    "trade_date": "2025-03-31",
+    "profit": 750.0,
+    "max_profit": 835.0,
+    "max_loss": 150.0
+  },
+  {
+    "trade_id": 115,
+    "entry_time": "2025-03-31 09:46:00",
+    "exit_time": "2025-03-31 09:47:00",
+    "trade_date": "2025-03-31",
+    "profit": -605.0,
+    "max_profit": 110.0,
+    "max_loss": 795.0
+  },
+  {
+    "trade_id": 116,
+    "entry_time": "2025-03-31 09:50:00",
+    "exit_time": "2025-03-31 09:51:00",
+    "trade_date": "2025-03-31",
+    "profit": 145.0,
+    "max_profit": 310.0,
+    "max_loss": 390.0
+  },
+  {
+    "trade_id": 117,
+    "entry_time": "2025-03-31 10:14:00",
+    "exit_time": "2025-03-31 10:15:00",
+    "trade_date": "2025-03-31",
+    "profit": -505.0,
+    "max_profit": 75.0,
+    "max_loss": 530.0
+  },
+  {
+    "trade_id": 118,
+    "entry_time": "2025-03-31 10:33:00",
+    "exit_time": "2025-03-31 10:34:00",
+    "trade_date": "2025-03-31",
+    "profit": 1145.0,
+    "max_profit": 1190.0,
+    "max_loss": 0.0
+  },
+  {
+    "trade_id": 119,
+    "entry_time": "2025-03-31 10:44:00",
+    "exit_time": "2025-03-31 10:45:00",
+    "trade_date": "2025-03-31",
+    "profit": -310.0,
+    "max_profit": 135.0,
+    "max_loss": 310.0
+  },
+  {
+    "trade_id": 120,
+    "entry_time": "2025-03-31 10:50:00",
+    "exit_time": "2025-03-31 10:51:00",
+    "trade_date": "2025-03-31",
+    "profit": 200.0,
+    "max_profit": 245.0,
+    "max_loss": 115.0
+  },
+  {
+    "trade_id": 121,
+    "entry_time": "2025-03-31 10:54:00",
+    "exit_time": "2025-03-31 10:55:00",
+    "trade_date": "2025-03-31",
+    "profit": -430.0,
+    "max_profit": 30.0,
+    "max_loss": 530.0
+  },
+  {
+    "trade_id": 122,
+    "entry_time": "2025-03-31 10:58:00",
+    "exit_time": "2025-03-31 11:00:00",
+    "trade_date": "2025-03-31",
+    "profit": -275.0,
+    "max_profit": 220.0,
+    "max_loss": 275.0
+  },
+  {
+    "trade_id": 123,
+    "entry_time": "2025-03-31 11:02:00",
+    "exit_time": "2025-03-31 11:03:00",
+    "trade_date": "2025-03-31",
+    "profit": 220.0,
+    "max_profit": 300.0,
+    "max_loss": 125.0
+  },
+  {
+    "trade_id": 124,
+    "entry_time": "2025-03-31 11:11:00",
+    "exit_time": "2025-03-31 11:12:00",
+    "trade_date": "2025-03-31",
+    "profit": 50.0,
+    "max_profit": 285.0,
+    "max_loss": 215.0
+  },
+  {
+    "trade_id": 125,
+    "entry_time": "2025-03-31 11:22:00",
+    "exit_time": "2025-03-31 11:24:00",
+    "trade_date": "2025-03-31",
+    "profit": 600.0,
+    "max_profit": 640.0,
+    "max_loss": 10.0
+  },
+  {
+    "trade_id": 126,
+    "entry_time": "2025-03-31 11:28:00",
+    "exit_time": "2025-03-31 11:29:00",
+    "trade_date": "2025-03-31",
+    "profit": 375.0,
+    "max_profit": 415.0,
+    "max_loss": 170.0
+  },
+  {
+    "trade_id": 127,
+    "entry_time": "2025-03-31 11:40:00",
+    "exit_time": "2025-03-31 11:41:00",
+    "trade_date": "2025-03-31",
+    "profit": 385.0,
+    "max_profit": 420.0,
+    "max_loss": 50.0
+  },
+  {
+    "trade_id": 128,
+    "entry_time": "2025-03-31 11:43:00",
+    "exit_time": "2025-03-31 11:44:00",
+    "trade_date": "2025-03-31",
+    "profit": 150.0,
+    "max_profit": 185.0,
+    "max_loss": 85.0
+  },
+  {
+    "trade_id": 129,
+    "entry_time": "2025-03-31 11:54:00",
+    "exit_time": "2025-03-31 11:55:00",
+    "trade_date": "2025-03-31",
+    "profit": -245.0,
+    "max_profit": 15.0,
+    "max_loss": 340.0
+  },
+  {
+    "trade_id": 130,
+    "entry_time": "2025-04-01 09:54:00",
+    "exit_time": "2025-04-01 09:55:00",
+    "trade_date": "2025-04-01",
+    "profit": 385.0,
+    "max_profit": 435.0,
+    "max_loss": 145.0
+  },
+  {
+    "trade_id": 131,
+    "entry_time": "2025-04-01 10:23:00",
+    "exit_time": "2025-04-01 10:25:00",
+    "trade_date": "2025-04-01",
+    "profit": 325.0,
+    "max_profit": 550.0,
+    "max_loss": 95.0
+  },
+  {
+    "trade_id": 132,
+    "entry_time": "2025-04-01 10:46:00",
+    "exit_time": "2025-04-01 10:47:00",
+    "trade_date": "2025-04-01",
+    "profit": -300.0,
+    "max_profit": 20.0,
+    "max_loss": 300.0
+  },
+  {
+    "trade_id": 133,
+    "entry_time": "2025-04-01 10:53:00",
+    "exit_time": "2025-04-01 10:55:00",
+    "trade_date": "2025-04-01",
+    "profit": 135.0,
+    "max_profit": 205.0,
+    "max_loss": 235.0
+  },
+  {
+    "trade_id": 134,
+    "entry_time": "2025-04-01 10:57:00",
+    "exit_time": "2025-04-01 10:58:00",
+    "trade_date": "2025-04-01",
+    "profit": -275.0,
+    "max_profit": 95.0,
+    "max_loss": 280.0
+  },
+  {
+    "trade_id": 135,
+    "entry_time": "2025-04-01 10:59:00",
+    "exit_time": "2025-04-01 11:00:00",
+    "trade_date": "2025-04-01",
+    "profit": 425.0,
+    "max_profit": 465.0,
+    "max_loss": 15.0
+  },
+  {
+    "trade_id": 136,
+    "entry_time": "2025-04-01 11:05:00",
+    "exit_time": "2025-04-01 11:06:00",
+    "trade_date": "2025-04-01",
+    "profit": -250.0,
+    "max_profit": 35.0,
+    "max_loss": 335.0
+  },
+  {
+    "trade_id": 137,
+    "entry_time": "2025-04-01 11:09:00",
+    "exit_time": "2025-04-01 11:10:00",
+    "trade_date": "2025-04-01",
+    "profit": -240.0,
+    "max_profit": 70.0,
+    "max_loss": 240.0
+  },
+  {
+    "trade_id": 138,
+    "entry_time": "2025-04-01 11:11:00",
+    "exit_time": "2025-04-01 11:12:00",
+    "trade_date": "2025-04-01",
+    "profit": -235.0,
+    "max_profit": 85.0,
+    "max_loss": 375.0
+  },
+  {
+    "trade_id": 139,
+    "entry_time": "2025-04-01 11:15:00",
+    "exit_time": "2025-04-01 11:17:00",
+    "trade_date": "2025-04-01",
+    "profit": 160.0,
+    "max_profit": 195.0,
+    "max_loss": 240.0
+  },
+  {
+    "trade_id": 140,
+    "entry_time": "2025-04-01 11:19:00",
+    "exit_time": "2025-04-01 11:21:00",
+    "trade_date": "2025-04-01",
+    "profit": 715.0,
+    "max_profit": 750.0,
+    "max_loss": 40.0
+  },
+  {
+    "trade_id": 141,
+    "entry_time": "2025-04-01 11:46:00",
+    "exit_time": "2025-04-01 11:47:00",
+    "trade_date": "2025-04-01",
+    "profit": 10.0,
+    "max_profit": 255.0,
+    "max_loss": 25.0
+  },
+  {
+    "trade_id": 142,
+    "entry_time": "2025-04-01 11:54:00",
+    "exit_time": "2025-04-01 11:55:00",
+    "trade_date": "2025-04-01",
+    "profit": 290.0,
+    "max_profit": 385.0,
+    "max_loss": 45.0
+  },
+  {
+    "trade_id": 143,
+    "entry_time": "2025-04-02 09:42:00",
+    "exit_time": "2025-04-02 09:43:00",
+    "trade_date": "2025-04-02",
+    "profit": 490.0,
+    "max_profit": 535.0,
+    "max_loss": 80.0
+  },
+  {
+    "trade_id": 144,
+    "entry_time": "2025-04-02 09:50:00",
+    "exit_time": "2025-04-02 09:53:00",
+    "trade_date": "2025-04-02",
+    "profit": 55.0,
+    "max_profit": 265.0,
+    "max_loss": 360.0
+  },
+  {
+    "trade_id": 145,
+    "entry_time": "2025-04-02 09:54:00",
+    "exit_time": "2025-04-02 09:55:00",
+    "trade_date": "2025-04-02",
+    "profit": 330.0,
+    "max_profit": 380.0,
+    "max_loss": 120.0
+  },
+  {
+    "trade_id": 146,
+    "entry_time": "2025-04-02 10:04:00",
+    "exit_time": "2025-04-02 10:05:00",
+    "trade_date": "2025-04-02",
+    "profit": 100.0,
+    "max_profit": 150.0,
+    "max_loss": 155.0
+  },
+  {
+    "trade_id": 147,
+    "entry_time": "2025-04-02 10:08:00",
+    "exit_time": "2025-04-02 10:09:00",
+    "trade_date": "2025-04-02",
+    "profit": 1040.0,
+    "max_profit": 1090.0,
+    "max_loss": 70.0
+  },
+  {
+    "trade_id": 148,
+    "entry_time": "2025-04-02 10:21:00",
+    "exit_time": "2025-04-02 10:22:00",
+    "trade_date": "2025-04-02",
+    "profit": -325.0,
+    "max_profit": 55.0,
+    "max_loss": 325.0
+  },
+  {
+    "trade_id": 149,
+    "entry_time": "2025-04-02 10:29:00",
+    "exit_time": "2025-04-02 10:30:00",
+    "trade_date": "2025-04-02",
+    "profit": -290.0,
+    "max_profit": 30.0,
+    "max_loss": 295.0
+  },
+  {
+    "trade_id": 150,
+    "entry_time": "2025-04-02 10:32:00",
+    "exit_time": "2025-04-02 10:33:00",
+    "trade_date": "2025-04-02",
+    "profit": -290.0,
+    "max_profit": 410.0,
+    "max_loss": 290.0
+  },
+  {
+    "trade_id": 151,
+    "entry_time": "2025-04-02 10:35:00",
+    "exit_time": "2025-04-02 10:36:00",
+    "trade_date": "2025-04-02",
+    "profit": 175.0,
+    "max_profit": 420.0,
+    "max_loss": 85.0
+  },
+  {
+    "trade_id": 152,
+    "entry_time": "2025-04-02 10:58:00",
+    "exit_time": "2025-04-02 10:59:00",
+    "trade_date": "2025-04-02",
+    "profit": 45.0,
+    "max_profit": 285.0,
+    "max_loss": 30.0
+  },
+  {
+    "trade_id": 153,
+    "entry_time": "2025-04-02 11:04:00",
+    "exit_time": "2025-04-02 11:05:00",
+    "trade_date": "2025-04-02",
+    "profit": -210.0,
+    "max_profit": 80.0,
+    "max_loss": 210.0
+  },
+  {
+    "trade_id": 154,
+    "entry_time": "2025-04-02 11:21:00",
+    "exit_time": "2025-04-02 11:22:00",
+    "trade_date": "2025-04-02",
+    "profit": 135.0,
+    "max_profit": 330.0,
+    "max_loss": 5.0
+  },
+  {
+    "trade_id": 155,
+    "entry_time": "2025-04-02 11:29:00",
+    "exit_time": "2025-04-02 11:30:00",
+    "trade_date": "2025-04-02",
+    "profit": -225.0,
+    "max_profit": 100.0,
+    "max_loss": 225.0
+  },
+  {
+    "trade_id": 156,
+    "entry_time": "2025-04-02 11:55:00",
+    "exit_time": "2025-04-02 11:56:00",
+    "trade_date": "2025-04-02",
+    "profit": 425.0,
+    "max_profit": 515.0,
+    "max_loss": 185.0
+  },
+  {
+    "trade_id": 157,
+    "entry_time": "2025-04-03 09:36:00",
+    "exit_time": "2025-04-03 09:37:00",
+    "trade_date": "2025-04-03",
+    "profit": 110.0,
+    "max_profit": 565.0,
+    "max_loss": 45.0
+  },
+  {
+    "trade_id": 158,
+    "entry_time": "2025-04-03 10:16:00",
+    "exit_time": "2025-04-03 10:17:00",
+    "trade_date": "2025-04-03",
+    "profit": 220.0,
+    "max_profit": 285.0,
+    "max_loss": 280.0
+  },
+  {
+    "trade_id": 159,
+    "entry_time": "2025-04-03 10:25:00",
+    "exit_time": "2025-04-03 10:26:00",
+    "trade_date": "2025-04-03",
+    "profit": -1110.0,
+    "max_profit": 30.0,
+    "max_loss": 1185.0
+  },
+  {
+    "trade_id": 160,
+    "entry_time": "2025-04-03 10:37:00",
+    "exit_time": "2025-04-03 10:38:00",
+    "trade_date": "2025-04-03",
+    "profit": 375.0,
+    "max_profit": 430.0,
+    "max_loss": 155.0
+  },
+  {
+    "trade_id": 161,
+    "entry_time": "2025-04-03 10:55:00",
+    "exit_time": "2025-04-03 10:56:00",
+    "trade_date": "2025-04-03",
+    "profit": 365.0,
+    "max_profit": 415.0,
+    "max_loss": 175.0
+  },
+  {
+    "trade_id": 162,
+    "entry_time": "2025-04-03 11:07:00",
+    "exit_time": "2025-04-03 11:08:00",
+    "trade_date": "2025-04-03",
+    "profit": 485.0,
+    "max_profit": 530.0,
+    "max_loss": 85.0
+  },
+  {
+    "trade_id": 163,
+    "entry_time": "2025-04-03 11:10:00",
+    "exit_time": "2025-04-03 11:11:00",
+    "trade_date": "2025-04-03",
+    "profit": 1355.0,
+    "max_profit": 1400.0,
+    "max_loss": 45.0
+  },
+  {
+    "trade_id": 164,
+    "entry_time": "2025-04-03 11:46:00",
+    "exit_time": "2025-04-03 11:47:00",
+    "trade_date": "2025-04-03",
+    "profit": 140.0,
+    "max_profit": 220.0,
+    "max_loss": 280.0
+  },
+  {
+    "trade_id": 165,
+    "entry_time": "2025-04-03 11:58:00",
+    "exit_time": "2025-04-03 11:59:00",
+    "trade_date": "2025-04-03",
+    "profit": 55.0,
+    "max_profit": 470.0,
+    "max_loss": 35.0
+  },
+  {
+    "trade_id": 166,
+    "entry_time": "2025-04-04 09:37:00",
+    "exit_time": "2025-04-04 09:39:00",
+    "trade_date": "2025-04-04",
+    "profit": -590.0,
+    "max_profit": 460.0,
+    "max_loss": 590.0
+  },
+  {
+    "trade_id": 167,
+    "entry_time": "2025-04-04 09:46:00",
+    "exit_time": "2025-04-04 09:47:00",
+    "trade_date": "2025-04-04",
+    "profit": 1490.0,
+    "max_profit": 1590.0,
+    "max_loss": 35.0
+  },
+  {
+    "trade_id": 168,
+    "entry_time": "2025-04-04 10:08:00",
+    "exit_time": "2025-04-04 10:10:00",
+    "trade_date": "2025-04-04",
+    "profit": 1015.0,
+    "max_profit": 1110.0,
+    "max_loss": 35.0
+  },
+  {
+    "trade_id": 169,
+    "entry_time": "2025-04-04 10:15:00",
+    "exit_time": "2025-04-04 10:16:00",
+    "trade_date": "2025-04-04",
+    "profit": -595.0,
+    "max_profit": 140.0,
+    "max_loss": 755.0
+  },
+  {
+    "trade_id": 170,
+    "entry_time": "2025-04-04 10:29:00",
+    "exit_time": "2025-04-04 10:30:00",
+    "trade_date": "2025-04-04",
+    "profit": 695.0,
+    "max_profit": 770.0,
+    "max_loss": 145.0
+  },
+  {
+    "trade_id": 171,
+    "entry_time": "2025-04-04 10:38:00",
+    "exit_time": "2025-04-04 10:40:00",
+    "trade_date": "2025-04-04",
+    "profit": -465.0,
+    "max_profit": 330.0,
+    "max_loss": 465.0
+  },
+  {
+    "trade_id": 172,
+    "entry_time": "2025-04-04 10:46:00",
+    "exit_time": "2025-04-04 10:47:00",
+    "trade_date": "2025-04-04",
+    "profit": 720.0,
+    "max_profit": 860.0,
+    "max_loss": 85.0
+  },
+  {
+    "trade_id": 173,
+    "entry_time": "2025-04-04 10:52:00",
+    "exit_time": "2025-04-04 10:54:00",
+    "trade_date": "2025-04-04",
+    "profit": 1630.0,
+    "max_profit": 1725.0,
+    "max_loss": 45.0
+  },
+  {
+    "trade_id": 174,
+    "entry_time": "2025-04-04 11:23:00",
+    "exit_time": "2025-04-04 11:24:00",
+    "trade_date": "2025-04-04",
+    "profit": -715.0,
+    "max_profit": 310.0,
+    "max_loss": 715.0
+  },
+  {
+    "trade_id": 175,
+    "entry_time": "2025-04-04 11:47:00",
+    "exit_time": "2025-04-04 11:48:00",
+    "trade_date": "2025-04-04",
+    "profit": 815.0,
+    "max_profit": 915.0,
+    "max_loss": 335.0
+  },
+  {
+    "trade_id": 176,
+    "entry_time": "2025-04-04 11:58:00",
+    "exit_time": "2025-04-04 11:59:00",
+    "trade_date": "2025-04-04",
+    "profit": 855.0,
+    "max_profit": 1010.0,
+    "max_loss": 155.0
+  }
+]
