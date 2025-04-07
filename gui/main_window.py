@@ -152,6 +152,16 @@ class MainWindow:
                     self.status_var.set("数据加载失败 - 无有效交易记录")
                     return
 
+                # 验证盈亏计算
+                total_profit = trades.get_total_profit()
+                profit_trades = sum(1 for t in trades.trades if t.profit_usd > 0)
+                loss_trades = sum(1 for t in trades.trades if t.profit_usd < 0)
+                even_trades = sum(1 for t in trades.trades if t.profit_usd == 0)
+
+                print(f"总盈亏: {total_profit}")
+                print(f"盈利交易: {profit_trades}, 亏损交易: {loss_trades}, 持平交易: {even_trades}")
+                print(f"总交易数: {len(trades.trades)}")
+
                 # 获取交易摘要信息
                 summary = self.data_parser.get_trade_summary()
 
@@ -160,6 +170,7 @@ class MainWindow:
                     f"已加载数据: {os.path.basename(file_path)}\n"
                     f"工作表: {self.data_parser.sheet_name}\n"
                     f"交易笔数: {summary['total_trades']}, "
+                    f"盈利/亏损笔数: {profit_trades}/{loss_trades}, "
                     f"交易日数: {summary['unique_dates']}, "
                     f"胜率: {format_percentage(summary['win_rate'])}, "
                     f"总盈利: {format_currency(summary['total_profit'])}"

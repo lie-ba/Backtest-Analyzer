@@ -72,25 +72,36 @@ class TradeCollection:
 
     def get_total_profit(self) -> float:
         """获取总盈利"""
-        return sum(t.profit_usd for t in self.trades)
+        if not self.trades:
+            return 0.0
+
+        # 直接累加所有交易的盈亏，保留原始正负值
+        total = sum(t.profit_usd for t in self.trades)
+
+        return total
 
     def get_win_rate(self) -> float:
         """获取胜率"""
         if not self.trades:
             return 0.0
 
-        win_trades = sum(1 for t in self.trades if t.is_profitable)
+        # 只计算实际盈利的交易（profit_usd > 0）
+        win_trades = sum(1 for t in self.trades if t.profit_usd > 0)
         return win_trades / len(self.trades)
 
     def get_profit_factor(self) -> float:
         """获取盈利因子 (总盈利/总亏损的绝对值)"""
-        total_profit = sum(t.profit_usd for t in self.trades if t.is_profitable)
-        total_loss = abs(sum(t.profit_usd for t in self.trades if not t.is_profitable))
+        if not self.trades:
+            return 0.0
+
+        # 分别计算盈利交易的总和和亏损交易的总和
+        total_profit = sum(t.profit_usd for t in self.trades if t.profit_usd > 0)
+        total_loss = abs(sum(t.profit_usd for t in self.trades if t.profit_usd < 0))
 
         if total_loss == 0:
             return float('inf') if total_profit > 0 else 0.0
 
-        return total_profit / total_loss if total_loss != 0 else float('inf')
+        return total_profit / total_loss
 
     def __len__(self) -> int:
         return len(self.trades)

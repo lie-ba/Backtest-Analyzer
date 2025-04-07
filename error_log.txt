@@ -20,3 +20,58 @@ Traceback (most recent call last):
 KeyboardInterrupt
 
 
+[2025-04-07 14:03:16.088447] 异常:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\Backtest Analyzer\main.py", line 102, in <module>
+    else:
+  File "C:\Users\user\PycharmProjects\Backtest Analyzer\main.py", line 45, in main
+    # 调用原始的异常处理器
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\tkinter\__init__.py", line 1429, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+
+
+[2025-04-07 14:26:51.455906] 异常:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\Backtest Analyzer\main.py", line 102, in <module>
+    main()
+  File "C:\Users\user\PycharmProjects\Backtest Analyzer\main.py", line 45, in main
+    root.mainloop()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\tkinter\__init__.py", line 1429, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+
+
+[2025-04-07 15:08:22.473589] 异常:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\Backtest Analyzer\main.py", line 102, in <module>
+    main()
+  File "C:\Users\user\PycharmProjects\Backtest Analyzer\main.py", line 45, in main
+    root.mainloop()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\tkinter\__init__.py", line 1429, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+
+
+[2025-04-07 15:11:27.565175] 异常:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\Backtest Analyzer\main.py", line 102, in <module>
+    main()
+  File "C:\Users\user\PycharmProjects\Backtest Analyzer\main.py", line 45, in main
+    root.mainloop()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\tkinter\__init__.py", line 1429, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+
+
+[2025-04-07 15:27:30.888524] 异常:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\Backtest Analyzer\main.py", line 102, in <module>
+    main()
+  File "C:\Users\user\PycharmProjects\Backtest Analyzer\main.py", line 45, in main
+    root.mainloop()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\tkinter\__init__.py", line 1429, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+
+
