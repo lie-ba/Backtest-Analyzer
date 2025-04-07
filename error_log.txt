@@ -1,0 +1,22 @@
+[2025-04-07 12:49:52.767392] 异常:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\Backtest Analyzer\main.py", line 51, in <module>
+    main()
+  File "C:\Users\user\PycharmProjects\Backtest Analyzer\main.py", line 45, in main
+    root.mainloop()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\tkinter\__init__.py", line 1429, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+
+
+[2025-04-07 12:56:34.837267] 异常:
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\Backtest Analyzer\main.py", line 102, in <module>
+    main()
+  File "C:\Users\user\PycharmProjects\Backtest Analyzer\main.py", line 45, in main
+    root.mainloop()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\tkinter\__init__.py", line 1429, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+
+
